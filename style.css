@@ -75,6 +75,14 @@ body {
     padding-top: 40px;
 }
 
+input {
+	width: 18vw;
+  	height: 30px;
+  	padding: 3px;
+  	font-size: 0.8rem;
+  	border: 1px solid gray;
+}
+
 .title {
     color: #fff;
     text-transform: uppercase;
