@@ -76,8 +76,8 @@ body {
 }
 
 input {
-	width: 18vw;
-  	height: 30px;
+	width: 90%;
+  	height: 25px;
   	padding: 3px;
   	font-size: 0.8rem;
   	border: 1px solid gray;
